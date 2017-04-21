@@ -1,0 +1,14 @@
+{
+  "name": "minimal-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react-blessed": "0.1.7",
+    "react": "0.14.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
