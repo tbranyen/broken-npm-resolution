@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "react-blessed": "0.1.7",
+    "react-blessed-you": "0.2.0",
     "react": "0.14.x"
   },
   "keywords": [],
